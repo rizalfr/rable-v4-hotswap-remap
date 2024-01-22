@@ -1,4 +1,4 @@
-This remapper only fit to rable v4 solder version.
+This remapper only fit to rable v4 hotswap version.
 
 1. fork this repository to your github account
 2. to change your keymaps, go to https://nickcoutsos.github.io/keymap-editor/ and click commit changes after that
