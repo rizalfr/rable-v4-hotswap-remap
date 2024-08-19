@@ -43,7 +43,7 @@
             // ----------------------------------------------------------------------------------------------------------------
 
             bindings = <
-&reset  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &trans  &trans  &trans  &trans  &trans  &trans  &kp F11  &trans  &trans  &trans  &bootloader  &trans  &trans  &trans  &trans  &trans  &trans  &out OUT_USB  &trans  &trans  &trans  &kp UP  &trans  &kp DEL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp PAGE_UP  &kp LEFT_ARROW  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &bt BT_CLR  &trans  &out OUT_BLE  &trans  &trans  &kp END  &kp PAGE_DOWN  &kp DOWN  &tog 3  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&sys_reset  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &trans  &trans  &trans  &trans  &trans  &trans  &kp F11  &trans  &trans  &trans  &bootloader  &trans  &trans  &trans  &trans  &trans  &trans  &out OUT_USB  &trans  &trans  &trans  &kp UP  &trans  &kp DEL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp PAGE_UP  &kp LEFT_ARROW  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &bt BT_CLR  &trans  &out OUT_BLE  &trans  &trans  &kp END  &kp PAGE_DOWN  &kp DOWN  &tog 3  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
